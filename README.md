@@ -1,8 +1,11 @@
 ✨ Extensiones del Lenguaje
 
 Este proyecto agrega nuevas capacidades al lenguaje original mediante tres extensiones:
+
 ✔️ Operador ternario
+
 ✔️ += (azúcar sintáctico)
+
 ✔️ -= (azúcar sintáctico)
 
 🧩 Operador Ternario (? :)
